@@ -1,0 +1,11 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(to right, #37ebe2, #5e53f7, #d8e951); /* Use your color variable or a hex code, e.g., #f8f9fa */
+    min-height: 100vh;
+    width: 100vw;
+}
